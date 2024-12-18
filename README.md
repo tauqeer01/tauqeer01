@@ -45,28 +45,12 @@ Welcome to my GitHub profile! I'm a passionate .NET Core developer with a strong
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## Projects
 
-### [Project Name](https://github.com/tauqeer01/project-name)
-- **Description:** Brief description of what the project does.
-- **Tech Stack:** .NET Core, ASP.NET Core, Entity Framework Core, SQL Server
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
-### [Another Project](https://github.com/tauqeer01/another-project)
-- **Description:** Brief description of what the project does.
-- **Tech Stack:** .NET Core, Azure, Docker, Kubernetes
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/tauqeer)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/tauqeer)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:tauqeer@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/tauqeer](https://www.linkedin.com/in/taukeer-k-04301451/))
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)]([https://twitter.com/tauqeer](https://x.com/codewithtrk))
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:codev1990@gmail.com)
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects! 😊
