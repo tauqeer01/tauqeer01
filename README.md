@@ -45,12 +45,10 @@ Welcome to my GitHub profile! I'm a passionate .NET Core developer with a strong
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
-
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/tauqeer](https://www.linkedin.com/in/taukeer-k-04301451/))
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)]([https://twitter.com/tauqeer](https://x.com/codewithtrk))
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:codev1990@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](#)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](#)
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects! 😊
