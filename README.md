@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codev1990&style=for-the-badge&color=2EA6FF" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tauqeer01&style=for-the-badge&color=2EA6FF" alt="profile views" />
 </p>
 
 ---
@@ -56,12 +56,12 @@ I help companies design and ship practical AI systems, not just prototypes:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codev1990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codev1990&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tauqeer01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauqeer01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codev1990&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauqeer01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ I help companies design and ship practical AI systems, not just prototypes:
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codev1990&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tauqeer01&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ I help companies design and ship practical AI systems, not just prototypes:
 ### 📈 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codev1990/codev1990/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tauqeer01/tauqeer01/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center"><i>💡 Set this up via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> — instructions below.</i></p>
